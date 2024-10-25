@@ -9,6 +9,6 @@ public class Main {
         System.out.println("...");
         System.out.println("he was eaten by the wasps");
         System.out.println("Better luck next time");
-        System.out.println("By the way i think you mitght be a horse but i'm not sure yet");
+        System.out.println("By the way i think you might be a house but i'm not sure yet");
     }
 }
